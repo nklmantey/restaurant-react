@@ -1,6 +1,6 @@
 # Gericht React Restaurant
 
-### [Live Site](https://gpt3react.netlify.app)
+### [Live Site](https://gericht-react.netlify.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
